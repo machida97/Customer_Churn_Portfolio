@@ -12,10 +12,6 @@ __pycache__/
 env/
 venv/
 
-# Model artifacts
-*.pkl
-*.joblib
-
 # System files
 .DS_Store
 Thumbs.db
