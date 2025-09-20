@@ -9,6 +9,7 @@ In this project, I analyze the **Telco Customer Churn dataset** and build machin
 
 ## 📂 Repository Structure
 
+```text
 customer-churn-prediction/
 │
 ├── data/
@@ -25,7 +26,7 @@ customer-churn-prediction/
 ├── requirements.txt # Python dependencies
 ├── README.md # Documentation
 └── .gitignore
-
+```
 ---
 
 ## 📊 Dataset  
